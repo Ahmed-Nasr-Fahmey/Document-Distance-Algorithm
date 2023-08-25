@@ -1,0 +1,18 @@
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+C:\Users\DELL\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\[TEMPLATE]\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\[TEMPLATE]\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\[TEMPLATE]\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\[TEMPLATE]\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\[TEMPLATE]\DocumentDistance\bin\Debug\complete.txt
+D:\[TEMPLATE]\DocumentDistance\bin\Debug\Sample.txt
+D:\[TEMPLATE]\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\[TEMPLATE]\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\[TEMPLATE]\DocumentDistance\bin\Debug\DocumentDistance.pdb
